@@ -313,11 +313,12 @@ main {
   }
 
   .ascii-art {
-    line-height: 10px;
+    font-size: 0px;
+    line-height: 5px;
   }
-  
+
   .ascii-art-inner {
-    font-size: 10px;
+    font-size: 6px;
   }
 
   body {
